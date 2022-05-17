@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/setuplesson/static/css/main.e6c13ad2.css",
+    "main.js": "/setuplesson/static/js/main.75e3f607.js",
+    "index.html": "/setuplesson/index.html",
+    "main.e6c13ad2.css.map": "/setuplesson/static/css/main.e6c13ad2.css.map",
+    "main.75e3f607.js.map": "/setuplesson/static/js/main.75e3f607.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.75e3f607.js"
+  ]
+}
